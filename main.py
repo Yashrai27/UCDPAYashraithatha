@@ -7,11 +7,11 @@
 
 def print_hi(name,age):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}, {23}')  # Press ⌘F8 to toggle the breakpoint.
+    print(f'Hi, {name}, {age}')  # Press ⌘F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('PyCharm',23)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
